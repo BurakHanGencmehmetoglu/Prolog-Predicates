@@ -1,9 +1,6 @@
-Some grid functions.Grid will be represented as a nested list of any type.
+There are unit predicates which define units and their properties in kb.pl file.
 
-Each list in the nested list has same size.
+Unit predicate is in the form of (Name, Cost, [Attributes]).
 
-Detailed descriptions of functions are in the code as a comments. 
-
-
-
+There are other type of predicates which operate on unit predicate in hw.pl file.
 
